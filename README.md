@@ -10,7 +10,7 @@
 get_all_funds_code.py：       
 查找funds_code.html所有基金代码      
        
-fund1.py：
+fund1.py：        
 过滤所有基金，待完善      
        
 analysis.py：       
