@@ -15,3 +15,5 @@ fund1.py：
        
 analysis.py：       
 分析程序，待完善        
+
+first modify
